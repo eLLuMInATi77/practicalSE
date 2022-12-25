@@ -1,11 +1,3 @@
-/*
-NAME - Durvesh Ravindra Kshirsagar
-CLASS - csd SE
-ROLL no. - 35
-subj. - OOP
-*/
-
-
 /*Write a function template for selection sort that inputs, sorts and outputs an integer array and a
 float array.*/
 
@@ -21,7 +13,6 @@ class sort
 	void order();
 	
 	void display();
-	
 };
 template<class T>
 void sort<T>:: getdata()
@@ -67,9 +58,7 @@ void sort<T>:: display()
 		cout<<a[i];
 		cout<<",";
 	}	
-}
-                                                                                              
-
+}                                                                                           
 int main()
 {
 cout<<"enter integer data:";
