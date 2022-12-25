@@ -1,11 +1,3 @@
-/*
-NAME - Durvesh Ravindra Kshirsagar
-CLASS - csd SE
-ROLL no. - 35
-subj. - OOP
-*/
-
-
 /*Imagine a publishing company which does marketing for book and audio cassette versions.
 Create a class publication that stores the title (a string) and price (type float) of publications.
 From this class derive two classes: book which adds a page count (type int) and tape which
