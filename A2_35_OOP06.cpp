@@ -1,11 +1,3 @@
-/*
-NAME - Durvesh Ravindra Kshirsagar
-CLASS - csd SE
-ROLL no. - 35
-subj. - OOP
-*/
-
-
 /*Write C++ program using STL for sorting and searching user defined records such as Item
 records (Item code, name, cost, quantity etc) using vector container*/
 
@@ -125,7 +117,7 @@ void dlt()
 {
         vector<Item>::iterator x;
         Item i1;
-        cout<<"\nEnter Item code to be deleted:";
+        cout<<"\nEnter Item code to be delete
         cin>>i1.code;
         x=find(a1.begin(),a1.end(),i1);
         if(x!=a1.end())
@@ -138,5 +130,3 @@ void dlt()
             cout<<"\nNot found";
         }
 }
-                        
-                 
