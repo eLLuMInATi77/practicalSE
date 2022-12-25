@@ -1,11 +1,3 @@
-/*
-NAME - Durvesh Ravindra Kshirsagar
-CLASS - csd SE
-ROLL no. - 35
-subj. - OOP
-*/
-
-
 /*  2)  Develop a program in C++ to create a database of student’s information system containing the
 following information: Name, Roll number, Class, Division, Date of Birth, Blood group, Contact
 address, Telephone number, Driving license no. and other. Construct the database with
@@ -137,62 +129,3 @@ class student
 	
 	return 0;
 }
-
-/*
-         constructor
-construstor count is 2
-
- all the detail are as below:
- ROLL    NAME           DOB      BLOOD_GROUP     CLASS   DIV     PHONE
- how many student object do you want to creater?2
-         constructor
-         constructor
-
-enter rn:21
-
-enter name:samay
-
-enter DOB:23/2/2000
-
-enter BG:B+
-
-enter class:FE
-
-enter div:A
-
-enter tele:999999990
-
-enter rn:22
-
-enter name:Abhijit sharma
-
-enter DOB:22/1/2000
-enter BG:A-
-
-enter class:BE
-
-enter div:D
-
-enter tele:9392848048
-
-ROLL_NO NAME    DOB     BLOOD_GROUP     CLASS   DIV     PHONE
-21      samay      003     B+      FE      A       999999990
-
-22      Abhijit 000     A-      BE      D       2147483647
-construstor count is 4
-
- destructor
- destroing the object
- destructor
- destroing the object
- destructor
- destroing the object
- destructor
- destroing the object
---------------------------------
-Process exited after 126.9 seconds with return value 0
-Press any key to continue . . .*/
- 
-
-
-	
